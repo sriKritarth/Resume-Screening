@@ -1,0 +1,6 @@
+Flask
+pdfplumber
+langchain
+langchain_groq
+werkzeug
+python-dotenv
